@@ -40,5 +40,5 @@
 ### 🌷 Thank You for Visiting!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=100&section=footer"/>
+  <img src="./cartoon.png" width="350" alt="Rifah Tasnia coding cartoon">
 </p>
