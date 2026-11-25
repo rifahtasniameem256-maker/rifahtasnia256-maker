@@ -9,9 +9,11 @@
   🌸 Welcome to my GitHub profile 🌸
 </p>
 
+<!-- GIRL CODING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="300">
+  <img src="./girl-coding.gif"
+       width="400"
+       alt="Girl Coding Animation">
 </p>
 
 ---
@@ -24,11 +26,15 @@
 - 🌱 Exploring Software Development
 - ✨ Always learning new things
 
+---
+
 ### 🛠️ Languages & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode,idea" />
 </p>
+
+---
 
 ### 📌 My Goals
 
@@ -36,9 +42,25 @@
 - Build real-world projects
 - Learn Software Testing
 - Explore Cyber Security
+- Become a skilled Software Engineer
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="400" />
+</p>
+
+---
 
 ### 🌷 Thank You for Visiting!
 
 <p align="center">
+  Keep Learning, Keep Growing! 💗
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=100&section=footer"/>
 </p>
+
