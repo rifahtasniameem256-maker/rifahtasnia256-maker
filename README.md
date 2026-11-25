@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Meem Tasnia</h1>
+<h1 align="center">Hi 👋, I'm Rifah Tasnia</h1>
 
 <h3 align="center">
   CSE Student | Aspiring Software Engineer
